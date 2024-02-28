@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3ec5f1d6.css",
+    "main.js": "./static/js/main.bf7b2f47.js",
+    "static/media/ambient-rain.mp3": "./static/media/ambient-rain.fdd829948765e8f07786.mp3",
+    "static/media/ambient.mp3": "./static/media/ambient.f464011416d5b7ee8706.mp3",
+    "static/media/ambient-happy.mp3": "./static/media/ambient-happy.16c22220580b98d75dd3.mp3",
+    "static/media/logo-2.png": "./static/media/logo-2.8da6b39fd863bd15bfc3.png",
+    "index.html": "./index.html",
+    "main.3ec5f1d6.css.map": "./static/css/main.3ec5f1d6.css.map",
+    "main.bf7b2f47.js.map": "./static/js/main.bf7b2f47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec5f1d6.css",
+    "static/js/main.bf7b2f47.js"
+  ]
+}
